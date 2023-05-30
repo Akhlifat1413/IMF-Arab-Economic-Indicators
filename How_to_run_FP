@@ -1,0 +1,8 @@
+- Download and unzip ITP_216_FP_Khlifat_Abdallah.zip
+- Open file on python console
+- Use db_creator.py to create a the database
+- On db_creator.py, remove #'s on the main() function to execute file, execute once to create database
+- Open app.py
+- Run app.py
+- Open the http url generated from the console
+- Enjoy :)
